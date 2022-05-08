@@ -169,13 +169,6 @@ class LinkedList:
         return 0 
 
 
-
-
-
-
-
-
-
 if __name__ == "__main__":
     llist = LinkedList()
     llist.create(list(range(10)))
